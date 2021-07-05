@@ -19,7 +19,7 @@ I am César, an operations & cybersegurity leader at USI 👩🏻‍💻☁️
 
 💬 Ask me about:
 - Beers 🍺
-- Video games 🎮
+- Entertainment 🎮
 - Rock metal ✨
 
 📫 How to reach me:
