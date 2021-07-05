@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am César, an operations & cybersegurity leader at USI 👩🏻‍💻☁️
+💬 Ask me about:
+- Beers 🍺
+- Video games 🎮
+- Rock metal ✨
+📫 How to reach me:
+- [Twitter](https://twitter.com/ceskvar)
+- [LinkedIn](www.linkedin.com/in/césar-dávila-001185139)
