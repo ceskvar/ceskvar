@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am César, an operations & cybersegurity leader at USI 👩🏻‍💻☁️
+I am César, an DevOps & cybersegurity team leader 👩🏻‍💻☁️
 
 💬 Ask me about:
 - Beers 🍺
