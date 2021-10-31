@@ -25,3 +25,9 @@ I am César, an operations & cybersegurity leader at USI 👩🏻‍💻☁️
 📫 How to reach me:
 - [Twitter](https://twitter.com/ceskvar)
 - [LinkedIn](www.linkedin.com/in/césar-dávila-001185139)
+
+🌱 I’m currently learning:
+- Python 🐍
+- Serverless ☁
+- High concurrency architectures ❄
+- All needed for Site Reliability engineers 😎
