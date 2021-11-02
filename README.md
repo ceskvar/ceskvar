@@ -21,9 +21,10 @@ I am César, an DevOps & cybersegurity team leader 👩🏻‍💻☁️
 - Beers 🍺
 - Entertainment 🎮
 - Rock metal ✨
+- Coffe ☕
 
 📫 How to reach me:
-- [Twitter](https://twitter.com/ceskvar)
+- [Twitter](https://twitter.com/ceskvar) 
 - [LinkedIn](www.linkedin.com/in/césar-dávila-001185139)
 
 🌱 I’m currently learning:
