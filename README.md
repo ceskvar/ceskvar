@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 I am César, an DevOps & cybersegurity team leader 👩🏻‍💻☁️
 
+### Github Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ceskvar&show_icons=true&theme=radical)
+](https://github.com/ceskvar/github-readme-stats)
+
 💬 Ask me about:
 - Beers 🍺
 - Entertainment 🎮
@@ -33,7 +37,5 @@ I am César, an DevOps & cybersegurity team leader 👩🏻‍💻☁️
 - High concurrency architectures ❄
 - All needed for Site Reliability engineers 😎
 
-### Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ceskvar&show_icons=true&theme=radical)
-)](https://github.com/ceskvar/github-readme-stats)
+
 
