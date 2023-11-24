@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am César, an DevOps & cybersegurity team leader 👩🏻‍💻☁️
+Hi there my name is César, an SRE enthusiast 👩🏻‍💻☁️
 
 ### Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ceskvar&show_icons=true&theme=radical)
@@ -32,10 +32,11 @@ I am César, an DevOps & cybersegurity team leader 👩🏻‍💻☁️
 - [LinkedIn](www.linkedin.com/in/césar-dávila-001185139)
 
 🌱 I’m currently learning:
-- Python 🐍
+- Go & Python 🐍
 - Serverless ☁
 - High concurrency architectures ❄
-- All needed for Site Reliability engineers 😎
+- Observability 😎
+- Prompt engineering
 
 
 
